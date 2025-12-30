@@ -1,1 +1,0 @@
-function a(r,t,e){const o=e>0?t/e*100:0,c=r==="Success"?"rgba(34, 197, 94, 0.15)":"#28162d",n=r==="Success"?"rgba(34, 197, 94, 0.4)":"#ff5ab5";return{background:`linear-gradient(to left, ${c} ${o}%, transparent ${o}%)`,borderRight:`2px solid ${n}`}}export{a as g};
